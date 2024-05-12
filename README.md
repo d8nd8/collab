@@ -1,4 +1,2 @@
 README.md
-# Colaboration 3
-
-Test text
+#Colaboration 3
